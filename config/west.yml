@@ -22,5 +22,5 @@ manifest:
 #      revision: split-encoder
 #      import: app/west.yml      
 
-#  self:
-#    path: config
+  self:
+    path: config
